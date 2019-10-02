@@ -110,12 +110,12 @@ StScrollBar StButton#hhandle:active {
 /* Slider */
 .slider {
     height: 1em;
-    -slider-height: 0.2em;
-    -slider-background-color: #dcdcdc;
-    -slider-border-color: transparent;
-    -slider-active-background-color: #888888;
-    -slider-active-border-color: transparent;
-    -slider-border-width: 1px;
+    -barlevel-height: 0.2em;
+    -barlevel-background-color: #dcdcdc;
+    -barlevel-border-color: transparent;
+    -barlevel-active-background-color: #888888;
+    -barlevel-active-border-color: transparent;
+    -barlevel-border-width: 1px;
     -slider-handle-radius: 6px; }
 
 /* Check Boxes */
